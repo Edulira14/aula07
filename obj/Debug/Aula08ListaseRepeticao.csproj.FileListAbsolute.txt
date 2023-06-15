@@ -1,0 +1,8 @@
+D:\Users\eduardo.lsilva43\source\repos\Aula08ListaseRepeticao\Aula08ListaseRepeticao\bin\Debug\Aula08ListaseRepeticao.exe.config
+D:\Users\eduardo.lsilva43\source\repos\Aula08ListaseRepeticao\Aula08ListaseRepeticao\bin\Debug\Aula08ListaseRepeticao.exe
+D:\Users\eduardo.lsilva43\source\repos\Aula08ListaseRepeticao\Aula08ListaseRepeticao\bin\Debug\Aula08ListaseRepeticao.pdb
+D:\Users\eduardo.lsilva43\source\repos\Aula08ListaseRepeticao\Aula08ListaseRepeticao\obj\Debug\Aula08ListaseRepeticao.csproj.AssemblyReference.cache
+D:\Users\eduardo.lsilva43\source\repos\Aula08ListaseRepeticao\Aula08ListaseRepeticao\obj\Debug\Aula08ListaseRepeticao.csproj.SuggestedBindingRedirects.cache
+D:\Users\eduardo.lsilva43\source\repos\Aula08ListaseRepeticao\Aula08ListaseRepeticao\obj\Debug\Aula08ListaseRepeticao.csproj.CoreCompileInputs.cache
+D:\Users\eduardo.lsilva43\source\repos\Aula08ListaseRepeticao\Aula08ListaseRepeticao\obj\Debug\Aula08ListaseRepeticao.exe
+D:\Users\eduardo.lsilva43\source\repos\Aula08ListaseRepeticao\Aula08ListaseRepeticao\obj\Debug\Aula08ListaseRepeticao.pdb
